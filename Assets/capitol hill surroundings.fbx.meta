@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 08ad119ca1ba94244b172e052b72edc4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00017-texture
+    second: {fileID: 2800000, guid: 3c9bed120e80f6343872055df6f7b8fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00018-texture
+    second: {fileID: 2800000, guid: 281ed7df23665e640aaae1958897d54f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00037-texture
+    second: {fileID: 2800000, guid: b9ff51db2c0234f42bb48abf57e5d5e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00038-texture
+    second: {fileID: 2800000, guid: 38337aad29e5db44fa3172e33fd704d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00039-texture
+    second: {fileID: 2800000, guid: b8a8433d97a31d64a9a19cd35a0ac220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00040-texture
+    second: {fileID: 2800000, guid: 7c82d9e7164b1644f8de8439cb4ae3c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00041-texture
+    second: {fileID: 2800000, guid: 425e9691dfe8e254799d2dcdbf848b11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00042-texture
+    second: {fileID: 2800000, guid: b63d198ad268e844ca604c54baee84cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00043-texture
+    second: {fileID: 2800000, guid: e586802751b32d7489c652a4e6e8dba8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00044-texture
+    second: {fileID: 2800000, guid: b819db25c9dbb904185a4a9fb32f0d4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00045-texture
+    second: {fileID: 2800000, guid: 159ddc39a3a805e46b9f80c91d8a06a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00046-texture
+    second: {fileID: 2800000, guid: 4c45a542d6221974ea09918ebd906625, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00047-texture
+    second: {fileID: 2800000, guid: 2c4bc6eb88758624ea2c9d908c47fd86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00048-texture
+    second: {fileID: 2800000, guid: fd1492c1e22d8eb4785e3247b3a8f06b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00049-texture
+    second: {fileID: 2800000, guid: 7bbc17e4c7a40a24eb02ff64a3a70830, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00050-texture
+    second: {fileID: 2800000, guid: 2aa55d9a0459b6a4c971233b723fbc81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00051-texture
+    second: {fileID: 2800000, guid: b9abc76ce06768242ae6e372b1833a61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00052-texture
+    second: {fileID: 2800000, guid: 2ba27dd3537c6a345b589dda376909a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00053-texture
+    second: {fileID: 2800000, guid: e1641ca9528611e47990377d60945630, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00054-texture
+    second: {fileID: 2800000, guid: 3f64acf0e55eb40439145a8c0252f534, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00055-texture
+    second: {fileID: 2800000, guid: b46bd7952bfe4ad43ad15e6afcdf1e9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00056-texture
+    second: {fileID: 2800000, guid: f2ae080ef0c305b438a89cedc2759864, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00057-texture
+    second: {fileID: 2800000, guid: 938300aff9c7217489490943cff93e20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00058-texture
+    second: {fileID: 2800000, guid: 5040edd6c7bb480408dead81ce880927, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00059-texture
+    second: {fileID: 2800000, guid: a3fcc209af33bdc49a217fac4a769305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00060-texture
+    second: {fileID: 2800000, guid: b1a839da70aa26d4ebc271123f3704c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00061-texture
+    second: {fileID: 2800000, guid: 5003ff88642ab4c4ca667dc9485c0e84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00062-texture
+    second: {fileID: 2800000, guid: 11cfd757b6c22b641ba3eab8fee2e130, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00063-texture
+    second: {fileID: 2800000, guid: 4d15b68814ca1ac4baecfb37ed50b32c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00064-texture
+    second: {fileID: 2800000, guid: 11849a4dd20913d49b782b91fb2c1065, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00065-texture
+    second: {fileID: 2800000, guid: 16ca2fda883ee37489e2783d4fa9d52a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00066-texture
+    second: {fileID: 2800000, guid: e54f02c42df790a4fb6821935933dcdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00067-texture
+    second: {fileID: 2800000, guid: 06557289619abb54d86705715099eff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00068-texture
+    second: {fileID: 2800000, guid: fc7687d718319b44ba8821d32da99709, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00069-texture
+    second: {fileID: 2800000, guid: c3902b93955508a48823b9d853ec80b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00070-texture
+    second: {fileID: 2800000, guid: 1d22bd59524ba944cae7e1293bd1c4e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00071-texture
+    second: {fileID: 2800000, guid: aef1febfc73f60645b090092a5949f9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00072-texture
+    second: {fileID: 2800000, guid: d05b6e97d33756c45a081b043e0bee48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00073-texture
+    second: {fileID: 2800000, guid: 871992d109a880e409cde93450df3241, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00074-texture
+    second: {fileID: 2800000, guid: 0fc7fbe4cee039a4c8d36c0e3fddc38a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00075-texture
+    second: {fileID: 2800000, guid: 3832829cf73a7084fbead01d18d4f1e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00076-texture
+    second: {fileID: 2800000, guid: 6d79b130b8490c44aa6052cbffe31a88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00077-texture
+    second: {fileID: 2800000, guid: 3077f71405679d84fbc8097c85ba99d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00078-texture
+    second: {fileID: 2800000, guid: 28bf7e336a6086b44b70b3862997a42b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00079-texture
+    second: {fileID: 2800000, guid: 04046fd93bc6ea24f93e15fcb6b2071d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00080-texture
+    second: {fileID: 2800000, guid: 3f39111f31d6a0f42ab5e9a5a0c9022d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00081-texture
+    second: {fileID: 2800000, guid: b9ac32497c4f10f45b2a60179b910fa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00082-texture
+    second: {fileID: 2800000, guid: 58d37af51aa89f7468181fcdf4f9e3c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00083-texture
+    second: {fileID: 2800000, guid: 4ad452ebd79f6164eb00df8cc7ee0f7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00084-texture
+    second: {fileID: 2800000, guid: e94a16b7049e66d42afd791c35bb492e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00085-texture
+    second: {fileID: 2800000, guid: 667d6cac9bc47294bba72e19526bae1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00086-texture
+    second: {fileID: 2800000, guid: f8c1573dcaa90934693f4ab470c08e6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00087-texture
+    second: {fileID: 2800000, guid: 655fac2058765de4680921874205ebf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00088-texture
+    second: {fileID: 2800000, guid: 0bdfbf1f3e414244486e5a77d92ee1db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00089-texture
+    second: {fileID: 2800000, guid: ccc71b686a744d947bba55c462f93583, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00090-texture
+    second: {fileID: 2800000, guid: d96e84d92b48cbd48922d1b3a925603a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00091-texture
+    second: {fileID: 2800000, guid: 8918c633f4d292f44ad3beb69a1c4012, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00092-texture
+    second: {fileID: 2800000, guid: 042faae47ac55be43b3265b50ceb2341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00093-texture
+    second: {fileID: 2800000, guid: 99e78d552cc27654ca9908604abb44c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00094-texture
+    second: {fileID: 2800000, guid: 32bf945344480f949b36783adafb8532, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00095-texture
+    second: {fileID: 2800000, guid: ed323d8d3d85520488cac8fa0d14a7b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00096-texture
+    second: {fileID: 2800000, guid: 9412bf9d3c2c8ad44be875ec04f8e561, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00097-texture
+    second: {fileID: 2800000, guid: d25a838d547b2134c9b00c3672dd9887, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00098-texture
+    second: {fileID: 2800000, guid: 551c1d97a659c2e4189e4e96db50735f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00099-texture
+    second: {fileID: 2800000, guid: 83e9e7eff9b1c894c81e25233f508273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00100-texture
+    second: {fileID: 2800000, guid: ed2565cc3e2f000489b88ff06b4385a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00101-texture
+    second: {fileID: 2800000, guid: c3ebbaf5836a74b43a60184075c14efd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00102-texture
+    second: {fileID: 2800000, guid: 25453870befea424ea6b7c516ca02987, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00103-texture
+    second: {fileID: 2800000, guid: d55ed0577ca9fce478432ae3ef4dbbdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00104-texture
+    second: {fileID: 2800000, guid: c9bf8d38a27bfae49b21cec080b41fa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00105-texture
+    second: {fileID: 2800000, guid: 40e6b4fe9a733e942958bf246c198b93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00106-texture
+    second: {fileID: 2800000, guid: 1db4b59a314ad0e4bacc42edec5e2a4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00107-texture
+    second: {fileID: 2800000, guid: ff0ca7efe0e278e4daff4886b7d0f369, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00108-texture
+    second: {fileID: 2800000, guid: 9856e65796d87c345ab6ed0b10c6a84d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00109-texture
+    second: {fileID: 2800000, guid: a4c4f29eeffefaf42a9e3626f5150747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00110-texture
+    second: {fileID: 2800000, guid: 53d156da23c9d3f4eb9aa8d0f0d0fcd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00111-texture
+    second: {fileID: 2800000, guid: 0710d458e963bab44b544f373deb98fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00112-texture
+    second: {fileID: 2800000, guid: 87295e87abe418c45ba5f2de03289954, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00113-texture
+    second: {fileID: 2800000, guid: 12dab2c0f57aa3045a789ca87e935c9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00114-texture
+    second: {fileID: 2800000, guid: 7e872498571683e4398e45f6d3bfd97c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00115-texture
+    second: {fileID: 2800000, guid: f1edbda8ff4014c4293ffa681141e5b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00116-texture
+    second: {fileID: 2800000, guid: 9da8d23f903852f4096036366499132b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00117-texture
+    second: {fileID: 2800000, guid: b980f5e6421688c448019b1871beecc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00118-texture
+    second: {fileID: 2800000, guid: ec81ae60049d16d41bdbf3c9dfe45907, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00147-texture
+    second: {fileID: 2800000, guid: da3664046d42ea642908547d363d3e10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00148-texture
+    second: {fileID: 2800000, guid: 7f1dfa742a4d3414592db5ea07cf5ad8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00149-texture
+    second: {fileID: 2800000, guid: a9518b401a5df6945a654db57ecb3cdf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00150-texture
+    second: {fileID: 2800000, guid: 0d4cba356ec0d984bb5f1d02c1f2009f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00151-texture
+    second: {fileID: 2800000, guid: 169fa296e8b174d4eab9f181231a0bb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00152-texture
+    second: {fileID: 2800000, guid: 7048ff3cd0410ed4aac0fc3053842afd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00153-texture
+    second: {fileID: 2800000, guid: 170ecb78cd84d634c8b8b20e39b7e5ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00154-texture
+    second: {fileID: 2800000, guid: 7039e1792d964884ca4259ab303fd9a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00155-texture
+    second: {fileID: 2800000, guid: 4d88a1345623a9348a3f27ecaabf9b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00156-texture
+    second: {fileID: 2800000, guid: c37f11e32da6f0e42a3f8f1fc6bb8209, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00157-texture
+    second: {fileID: 2800000, guid: 2c05fb09f17400d47a929b6fe36af709, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00158-texture
+    second: {fileID: 2800000, guid: d2406974e8a2a094f8184e45bd1120e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00159-texture
+    second: {fileID: 2800000, guid: 90a75dc957b11a84eb18eb5fa7ed9e80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00160-texture
+    second: {fileID: 2800000, guid: 232bd563bb251a549aa8c7c35578eed0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00161-texture
+    second: {fileID: 2800000, guid: 84546f3361527a648bf68796741d8c30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00162-texture
+    second: {fileID: 2800000, guid: 418850f52c717d24895f4c87642fc06b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00163-texture
+    second: {fileID: 2800000, guid: 47249f22f8f08f6468142ebd96ebc810, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00164-texture
+    second: {fileID: 2800000, guid: 204d3a258e381cb49b6f6ca45c6a1b1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00165-texture
+    second: {fileID: 2800000, guid: 483c2b8b96598444ebe221a94c49997e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00166-texture
+    second: {fileID: 2800000, guid: 81202369357423047bb11cff025c289a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00167-texture
+    second: {fileID: 2800000, guid: 213c2c40a6a09dc459347a4000f8d42d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00168-texture
+    second: {fileID: 2800000, guid: 234aef18a556d724e805613f172cc461, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00169-texture
+    second: {fileID: 2800000, guid: 212c5fa692ff4e944bba41905b30ed4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00170-texture
+    second: {fileID: 2800000, guid: d7ed2d5f3024aee45810a1afb2ff37f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00171-texture
+    second: {fileID: 2800000, guid: 6fda59ae767a06b4a99eb3a53b170b43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00172-texture
+    second: {fileID: 2800000, guid: 2d05d17652dcde94b8a5146f8d6665c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00209-texture
+    second: {fileID: 2800000, guid: c8494180283b48b4589357a1ee35b2d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00210-texture
+    second: {fileID: 2800000, guid: 267f7e3b08ad74841a3f5ff62f068f39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00211-texture
+    second: {fileID: 2800000, guid: ce3e9eac66e2bf64f8a13cde1d9ef04a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00212-texture
+    second: {fileID: 2800000, guid: c652c105c9b023749b59f6c5370fba52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00213-texture
+    second: {fileID: 2800000, guid: 8a514f3f7fa4fc049b7ca1438918264d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00214-texture
+    second: {fileID: 2800000, guid: cce013a6acb04724d93c2f539bde8f5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00215-texture
+    second: {fileID: 2800000, guid: aee5682673ac69e4f8ee22168c32e579, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00216-texture
+    second: {fileID: 2800000, guid: f511b64c17c77214c9c4853168613d60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00217-texture
+    second: {fileID: 2800000, guid: 8ee0ebb891375ad48806a3db6133dfe3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00218-texture
+    second: {fileID: 2800000, guid: d76221d025d690f4197cb6e1c2adbe7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00219-texture
+    second: {fileID: 2800000, guid: 1980f5a8211b58440af160575a20d143, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00220-texture
+    second: {fileID: 2800000, guid: af1893dc21057144d9462779537a2be7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00255-texture
+    second: {fileID: 2800000, guid: dfd329ecffc5c6048b1f63e852ecb2f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00256-texture
+    second: {fileID: 2800000, guid: 057879a03dae76d4d96564949c4a0930, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00257-texture
+    second: {fileID: 2800000, guid: ae14172cc2fec5f40b9fc0140b8ab177, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00258-texture
+    second: {fileID: 2800000, guid: 16dc53f99c64e0f488871deb78d14296, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00259-texture
+    second: {fileID: 2800000, guid: 22f199ea06c1e264cab7f9faee9523e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00260-texture
+    second: {fileID: 2800000, guid: 53049e3dc6da1fc409d9fe6cd6bc9c33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00261-texture
+    second: {fileID: 2800000, guid: 2b3bae107ad556f4482d8d252ca92b65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00262-texture
+    second: {fileID: 2800000, guid: f248a3276d65cb34cb92ad8a67dd72dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00263-texture
+    second: {fileID: 2800000, guid: 968ebdf2f2f9e3043b70a1843e1c0bfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00264-texture
+    second: {fileID: 2800000, guid: b1d29b540c5eaa74684ea2e06362d9d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00265-texture
+    second: {fileID: 2800000, guid: bca4af05d431b3c49a4e2dd870415cfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00266-texture
+    second: {fileID: 2800000, guid: 8c188e7194e0dc844a7cd88ac3da551f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00267-texture
+    second: {fileID: 2800000, guid: 184026a45202983498546ca992682240, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00268-texture
+    second: {fileID: 2800000, guid: 444e7ff8737e36245a90995850adcde1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00269-texture
+    second: {fileID: 2800000, guid: 6dadcaf23ecf9ea44983924477c12b7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00270-texture
+    second: {fileID: 2800000, guid: ace3e07ae3b699544ac70ace8d10fa8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00271-texture
+    second: {fileID: 2800000, guid: 52cae451dca1bde46aa4015ff7f25ba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00272-texture
+    second: {fileID: 2800000, guid: cb3c36d8fe46a394ea0124381ef34a6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00273-texture
+    second: {fileID: 2800000, guid: 685b4da7f40f1774c9c0d6047dd992e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00274-texture
+    second: {fileID: 2800000, guid: 78db5ee14ec1cb344867bca07b77bde8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00275-texture
+    second: {fileID: 2800000, guid: 703d4db94e77aca4ca855f8a3382bff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00276-texture
+    second: {fileID: 2800000, guid: 387bf15c299e26d488fe09afe43d75f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00277-texture
+    second: {fileID: 2800000, guid: 5e71634d62d98524c88a94a86efea63c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00278-texture
+    second: {fileID: 2800000, guid: c83df3277df25df4e9343f96e4f32266, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00279-texture
+    second: {fileID: 2800000, guid: 3a4392befac125c44b7182726068a176, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00280-texture
+    second: {fileID: 2800000, guid: 19312434872164446aceeac770470f46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00281-texture
+    second: {fileID: 2800000, guid: 1d1f86dbd40cc2e4bbd3ff173bc76229, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00282-texture
+    second: {fileID: 2800000, guid: 6c07272266ed3554d856650ff16a0b6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00283-texture
+    second: {fileID: 2800000, guid: e0a94343870591748af593f3e6f567ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00284-texture
+    second: {fileID: 2800000, guid: 98b7052bc3226584d99469ab0b684f70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00285-texture
+    second: {fileID: 2800000, guid: 4d47f59dd6dc3d04e9c9ced7d2e16a35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00286-texture
+    second: {fileID: 2800000, guid: 6756ea68b8266784b85336b66dcb9570, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00287-texture
+    second: {fileID: 2800000, guid: fddd8060f35ed874f89340cfdb93320b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00288-texture
+    second: {fileID: 2800000, guid: 29ecf9ceb1ce08648b941339ac66b753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00289-texture
+    second: {fileID: 2800000, guid: 6b70885d14e707e47822bcc77bf419c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00290-texture
+    second: {fileID: 2800000, guid: bf10fc3f03ff2734a8f6e7e5c9b49511, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00291-texture
+    second: {fileID: 2800000, guid: b00250976d9f0d74ca996213971bc275, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00292-texture
+    second: {fileID: 2800000, guid: 5a97b3c86ed9dbd4d89d8ce1ec14eac5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00293-texture
+    second: {fileID: 2800000, guid: 94b9663c764a61b4096471a465b4d623, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00294-texture
+    second: {fileID: 2800000, guid: cb487fa4eef35824490a606ca8ab9c3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00295-texture
+    second: {fileID: 2800000, guid: 197ceee6d0a277c41bab09c45532ac4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00296-texture
+    second: {fileID: 2800000, guid: 839eccf6a3f203e41ae0a1bfca95bc97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00297-texture
+    second: {fileID: 2800000, guid: 4d971de8375419d4c87b47d3b6c188b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00298-texture
+    second: {fileID: 2800000, guid: de51f674693c2224b9b213c290360ab9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00299-texture
+    second: {fileID: 2800000, guid: 4a245cc73312d8540ad2daf119d8c800, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00300-texture
+    second: {fileID: 2800000, guid: 5974c89026a307e4195b6e6de78b954c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00301-texture
+    second: {fileID: 2800000, guid: e1e81c7c75c9f9140971aead9b883965, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capitol Hill Surroundings-00302-texture
+    second: {fileID: 2800000, guid: 99fc7b1690c2e9a498efaf254a59f61b, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
